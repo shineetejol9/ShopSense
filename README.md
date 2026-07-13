@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b0ef0506-5c54-47a0-9bb8-3ddf49065beb
+
 <div align="center">
 
 # 🛍️ ShopSense AI
@@ -52,3 +56,8 @@ Each product also includes an **AI Shopping Assistant** powered by **OpenRouter*
 - ✨ Best Occasion
 
 The goal of this project is to make product discovery faster, smarter, and more intuitive using modern AI technologies.
+
+
+https://github.com/user-attachments/assets/8f147ed0-9fba-445d-8767-6d4fb8f6ae1e
+
+
