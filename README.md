@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🛍️ ShopSense AI
 
-First, run the development server:
+### AI-Powered Semantic E-Commerce Platform
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Search products naturally using **Semantic Vector Search** and receive **AI-powered shopping insights** in a fast, modern shopping experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)
+![Vector Search](https://img.shields.io/badge/Vector-Search-success?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-Embeddings-blue?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-purple?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+</div>
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📖 Overview
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Traditional e-commerce platforms rely on keyword-based search, which often fails to understand what users actually mean.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**ShopSense AI** uses **Gemini Embeddings** and **MongoDB Atlas Vector Search** to understand the meaning behind a user's query and retrieve semantically relevant products instead of exact keyword matches.
 
-## Deploy on Vercel
+Each product also includes an **AI Shopping Assistant** powered by **OpenRouter**, allowing users to quickly learn about a product through concise AI-generated insights such as:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- 👍 Pros & Cons
+- 💰 Worth the Money?
+- 🎯 Best For
+- ✨ Best Occasion
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The goal of this project is to make product discovery faster, smarter, and more intuitive using modern AI technologies.
