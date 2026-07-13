@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/b0ef0506-5c54-47a0-9bb8-3ddf49065beb
-
 <div align="center">
 
 # 🛍️ ShopSense AI
